@@ -55,12 +55,12 @@ class Customer:
 
 
 # Sample usage
-product1 = Product(1, "iPhone", 1000)
-product2 = Product(2, "Headphones", 100)
-product3 = Product(3, "Keyboard", 50)
-product4 = Product(4, "Laptop Mac Book", 2000)
-product5 = Product(5, "Dell Laptop", 1500)
-product6 = Product(6, "Ipad", 1250)
+product1 = Product(1, "iPhone", 10000)
+product2 = Product(2, "Headphones", 10)
+product3 = Product(3, "Keyboard", 500)
+product4 = Product(4, "Laptop Mac Book", 20000)
+product5 = Product(5, "Dell Laptop", 150)
+product6 = Product(6, "Ipad", 12500)
 
 
 
