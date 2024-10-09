@@ -61,7 +61,7 @@ product3 = Product(3, "Keyboard", 500)
 product4 = Product(4, "Laptop Mac Book", 20000)
 product5 = Product(5, "Dell Laptop", 150)
 product6 = Product(6, "Ipad", 12500)
-product7 = Product(7,"Toilet Paper",500)
+product7 = Product(7,"Mouse",500)
 product8= Product(8,"Poster",600)
 
 
